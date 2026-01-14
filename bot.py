@@ -1,4 +1,3 @@
-‎import logging
 ‎import requests
 ‎import nest_asyncio
 ‎import asyncio
@@ -149,4 +148,4 @@
 ‎
 ‎if __name__ == "__main__":
 ‎    nest_asyncio.apply()
-‎    asyncio.run(main())
+‎    asyncio.run(main()
